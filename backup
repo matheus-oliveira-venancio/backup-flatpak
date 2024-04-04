@@ -1,0 +1,5 @@
+#! /bin/bash
+
+flatpak install flathub com.google.Chrome
+flatpak install flathub com.valvesoftware.Steam
+flatpak install flathub com.valvesoftware.SteamLink
